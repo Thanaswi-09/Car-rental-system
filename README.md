@@ -1,0 +1,2 @@
+Many people face difficulties when renting a car due to manual paperwork, booking delays, and lack of real-time availability. Traditional businesses struggle with managing cars, bookings, and payments efficiently. Our Car Rental System is a web-based platform that simplifies car rentals, allowing users to browse, book, and pay securely online. Admins can manage cars, bookings, and users efficiently from a separate dashboard.
+
